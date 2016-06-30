@@ -1,8 +1,7 @@
 package br.com.coder.testegit3;
 
 /**
- * 3.2
- * @author gustavo
+ * 3.1
  */
 public class Classe1 {
     
